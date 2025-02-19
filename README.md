@@ -23,29 +23,28 @@ pandemic in weight loss discussion on social media. Further study could explore 
 in multiple subreddits or social media platforms to conclusively link these trends with the pandemic's effect.
 
 # Data
-loseit_submissions.zst : The historical dataset contain original post data of 'r/loseit'.
-loseit_submissions_2019_2021_ids.txt: The IDs files from 2019 to 2021 exported from the historical dataset.
-Submissions.csv: This file contains the post content and its metadata collecting from Reddit.
-Cleaned submissions.csv:This file contains submission dataset that has been initially cleaned.
+loseit_submissions.zst : The historical dataset contain original post data of 'r/loseit'.  
+loseit_submissions_2019_2021_ids.txt: The IDs files from 2019 to 2021 exported from the historical dataset.  
+Submissions.csv: This file contains the post content and its metadata collecting from Reddit.  
+Cleaned submissions.csv:This file contains submission dataset that has been initially cleaned.  
 Processed_lda.csv:The file contains Cleaned submissions that has been text cleaning and preprocessing for LDA
-algorithm.
+algorithm.  
 Processed_vader.csv:The file contains Cleaned submissions that has been text cleaning and preprocessing for
-VADER analysis.
+VADER analysis.  
 Processed_nrc.csv:The file contains Cleaned submissions that has been text cleaning and preprocessing for
-NRC-EIL analysis.
-lda_submissions.csv:This file contains the results of LDA analysis of each post and related metadata.
+NRC-EIL analysis.  
+lda_submissions.csv:This file contains the results of LDA analysis of each post and related metadata.  
 vader_submissions.csv: This file contains the result of VADER sentiment analysis and weighted sentiment score
-of each post with related metadata.
+of each post with related metadata.  
 nrc_submissions.csv: This file contains the result after applying the NRC-EIL analysis (eight emotions and
-corresponding scores) of each post with related metadata.
+corresponding scores) of each post with related metadata.  
 
 # Package
-This project requires the following Python packages:
 
-
-Core: os, sys, json, csv, datetime, logging
-Scraping: praw, pandas, BeautifulSoup, re
-NLP: nltk, spacy, gensim
-Stats & Modeling: numpy, scipy, statsmodels
-Visualization: matplotlib, plotly
-Other: zstandard, ast
+This project requires the following Python packages:  
+Core: os, sys, json, csv, datetime, logging  
+Scraping: praw, pandas, BeautifulSoup, re  
+NLP: nltk, spacy, gensim  
+Stats & Modeling: numpy, scipy, statsmodels  
+Visualization: matplotlib, plotly  
+Other: zstandard, ast  
