@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6cfb412b-e077-4267-8a3a-6388ae3bd66f)Yang Qian - Data Analyst Portfolio
+Yang Qian - Data Analyst Portfolio
 
 About
 Hi, I am Yang! I have a Master’s degree in Computational Social Science in Linköping University, specializing in R, SQL, Python (Pandas, NumPy), and Tableau, Power BI for data analysis and visualization. Experienced in data modeling, A/B testing, and statistical analysis. Passionate about transforming raw data into strategic insights to support business decisions.
