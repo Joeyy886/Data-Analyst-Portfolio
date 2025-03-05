@@ -20,7 +20,7 @@ Here are some of my data analysis projects:
 ---
 
 ## **🎓 Education**
-Master of Science in Computational Social Science, Linköping University, Aug 2022 - Oct 2024
+Master of Science in Computational Social Science, Linköping University, Aug 2022 - Oct 2024  
 BA in Fashion Design and Communication, Shanghai Institute of Visual Arts, Sep 2012 - Jun 2016
 
 ---
