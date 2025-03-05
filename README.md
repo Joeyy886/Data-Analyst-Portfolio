@@ -1,16 +1,11 @@
 # Yang Qian - Data Analyst Portfolio
 
 ## **👋 About Me**
-Hi, I am **Yang**! I have a **Master’s degree in Computational Social Science** from **Linköping University**, specializing in:  
-- **Programming:** R, SQL, Python (**Pandas, NumPy**)  
-- **Data Visualization:** Tableau, Power BI  
-- **Data Analysis:** Data modeling, A/B testing, statistical analysis  
+Hi, I am **Yang**! I have a Master’s degree in Computational Social Science in Linköping University, specializing in R, SQL, Python (Pandas, NumPy), and Tableau, Power BI for data analysis and visualization. Experienced in data modeling, A/B testing, and statistical analysis. Passionate about transforming raw data into strategic insights to support business decisions.
 
-Passionate about transforming raw data into **strategic insights** to support business decisions.
+In my free time, I enjoy exploring new data analysis tools and expanding my knowledge. Whether working in a team or independently, I love discovering insights and solving complex problems with data.  
 
-In my free time, I enjoy exploring **new data analysis tools** and expanding my knowledge. Whether working in a team or independently, I love **discovering insights** and solving complex problems with data.  
-
-This repository showcases my **skills, projects**, and tracks my progress in **Data Analytics & Data Science**.
+This repository showcases my skills, projects, and tracks my progress in Data Analytics & Data Science.
 
 ---
 
@@ -27,18 +22,15 @@ Here are some of my data analysis projects:
 ---
 
 ## **🎓 Education**
-🎓 **Master of Science in Computational Social Science**  
-*Linköping University, Aug 2022 - Oct 2024*  
-
-🎓 **BA in Fashion Design and Communication**  
-*Shanghai Institute of Visual Arts, Sep 2012 - Jun 2016*  
+Master of Science in Computational Social Science, Linköping University, Aug 2022 - Oct 2024
+BA in Fashion Design and Communication, Shanghai Institute of Visual Arts, Sep 2012 - Jun 2016
 
 ---
 
 ## **📜 Certificates**
-✅ **Google Data Analytics Professional Certificate** (Coursera - Google)  
-✅ **Tableau Certification** (Coursera - Google)  
-✅ **Python for Data Science** (Coursera - Google)  
+✅ Google Data Analytics Professional Certificate** (Coursera - Google)  
+✅ Tableau Certification** (Coursera - Google)  
+✅ Python for Data Science** (Coursera - Google)  
 
 ---
 
