@@ -8,12 +8,17 @@ Hi, I am Yang! I have a Master’s degree in Computational Social Science in Lin
 ## **📊 Projects**
 Here are my data analysis projects:
 
-1. **Project 1** – *(Brief description here)*  
-2. **Project 2** – *(Brief description here)*  
-3. **Project 3** – *(Brief description here)*  
-4. **Project 4** – *(Brief description here)*  
-5. **Project 5** – *(Brief description here)*  
-6. **Project 6** – *(Brief description here)*
+1. **Project 1** – *(Explore weight loss discussions and sentiments on Reddit)*  
+
+2. **Project 2** – *(E-commerce Sales Analysis)*  
+
+3. **Project 3** – *(Swedish Stock Market Insights)*  
+
+4. **Project 4** – *(Swedish House Market Insights)*  
+
+5. **Project 5** – *(Spotify Music Data Analysis)*  
+
+6. **Project 6** – *(Netflix Movie Data analysis)*
 
 ---
 
