@@ -15,7 +15,7 @@ Here are some of my data analysis projects:
 3. **Project 3** – *(Brief description here)*  
 4. **Project 4** – *(Brief description here)*  
 5. **Project 5** – *(Brief description here)*  
-6. **Project 6** – *(Brief description here)*  
+6. **Project 6** – *(Brief description here)*
 
 ---
 
@@ -26,9 +26,9 @@ BA in Fashion Design and Communication, Shanghai Institute of Visual Arts, Sep 2
 ---
 
 ## **📜 Certificates**
-✅ Google Data Analytics Professional Certificate** (Coursera - Google)  
-✅ Tableau Certification** (Coursera - Google)  
-✅ Python for Data Science** (Coursera - Google)  
+✅ Google Data Analytics Professional Certificate (Coursera - Google)  
+✅ Tableau Certification (Coursera - Google)  
+✅ Python for Data Science (Coursera - Google)  
 
 ---
 
