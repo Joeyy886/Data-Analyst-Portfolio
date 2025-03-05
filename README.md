@@ -8,7 +8,7 @@ This repository showcases my skills, projects, and tracks my progress in Data An
 ---
 
 ## **📊 Projects**
-Here are some of my data analysis projects:
+Here are my data analysis projects:
 
 1. **Project 1** – *(Brief description here)*  
 2. **Project 2** – *(Brief description here)*  
